@@ -23,4 +23,4 @@ analyze:
 commit:
   connect:
     stream: pygoat
-    url: https://partner-demo.coverity.synopsys.com
+    url: http://localhost:8080
